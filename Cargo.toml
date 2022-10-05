@@ -1,0 +1,9 @@
+[package]
+name = "domain-sort"
+version = "0.1.0"
+edition = "2021"
+authors = ["LOU Xun <aquarhead@gmail.com>"]
+description = "Sort domain names"
+
+[dependencies]
+anyhow = "1"
